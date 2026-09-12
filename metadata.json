@@ -1,0 +1,8 @@
+{
+  "name": "The Big Belly King",
+  "description": "കേരള ഫിറ്റ് കിംഗ് - വലിയ വയറുള്ള രാജാവിന്റെയും അണ്ണാന്റെയും തമാശ നിറഞ്ഞ വ്യായാമ സാഹസിക ഗെയിം!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
